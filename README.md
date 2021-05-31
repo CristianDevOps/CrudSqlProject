@@ -19,7 +19,7 @@ Este es un pequeño proyecto breve, el cual busca presentar la fácilidad qué e
 <br>
 <br>
   
-<img src="http://imgfz.com/i/aeI2QrS.png" align="left" width="600px" height="600px">
+<img src="http://imgfz.com/i/aeI2QrS.png" align="left" width="495px" height="600px">
   
   
   Aquí se exhibe la descripción de las acciones o actividad. Igual describe los procesos & relaciones del sistema.
